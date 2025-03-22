@@ -27,3 +27,8 @@
 -  Encountered a Problem where the server being used for mage, has randomly become not accessible
 
 
+03/15/2024
+
+- Restarted the project after getting over the trauma of my project completely stopping, for no reason.
+- did the same thing as on 02/22, however didn't need to use pipx as pip was installed when I installed pandas using sudo apt install python3-xyz.
+- 
